@@ -1,0 +1,9 @@
+transformers
+datasets
+pytorch-lightning
+pytorchvideo
+av==9.2.0
+decord
+torch
+torchvision
+fire
